@@ -1,3 +1,7 @@
 #!/bin/bash
 
-echo The School is open!
+echo School
+<<<<<<< HEAD
+=======
+echo The school is open!
+>>>>>>> master
